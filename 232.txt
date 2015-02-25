@@ -1,0 +1,2644 @@
+ Android Tutorials , Android Projects, Android News updates , phonegap 
+ Android Tutorials , Android Projects, Android News updates , phonegapView AndroidGoogle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+View Android
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+About Us
+Privacy Policy
+News Letters
+Contact us
+
+
+Android tutorials
+
+Android Projects
+Android interview questions
+Download Source code
+
+
+Tabs and Phones
+
+Android News
+Htc
+Sony
+iphone
+Nokia
+Samsung
+Windows
+Hot Reviews
+
+
+Tech Trends
+
+Apple
+Yahoo
+Google
+Twitter
+Facebook
+Microsoft
+
+
+Templates
+
+SEO
+PC- MAGIC
+Blogging
+Security Tips
+
+
+Apps
+
+PHONE GAP
+ANDROID APPS
+IPHONE APPS
+WINDOWS APPS
+BLACKBERRY APPS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Latest Android News  Android Exclusive
+Get all the Exclusive News about Android 
+
+view here
+
+
+
+
+
+
+Smart Phone Reviews and Comparisons Exclusive
+Get all the Reviews of hot products in market
+
+view here
+
+
+
+
+
+
+SEO Tips and Tricks make your Website better
+Get High Rank to your website 
+
+view here
+
+
+
+
+
+
+Apps and Games enjoy fun
+Android Apps, IPhone Apps, Windows Apps, BlackBerry Apps, Games
+
+Get it 
+
+
+
+
+
+
+Tips and Tricks Send us a Fan Art :)
+Blogger,Wordpress,Zoomla,Softwares
+
+Learn it Now
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Home (TOP)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AD (728x90)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thursday, 12 February 2015
+
+
+
+
+
+
+
+
+How to Get  Android 5.0.2 Lollipop for Nexus 5
+
+
+  By:
+Sanjai Kummar
+
+
+Thursday, February 12, 2015
+
+
+
+
+
+
+
+The Android Lollipop 5.0.2 update has been made available to some Nexus devices, including the Nexus 7 2012 and 2013 models and the Nexus 10. However, there is still no sign of the update for the Nexus 5 or the Nexus 4. While both the Nexus 6 and the Nexus 9 come with Android 5.0, apparently, the Nexus 5 Android 5.0 Lollipop update has been suspended because it was reported that the update causes the device's battery to drain at a faster than normal rate.
+
+According to AndroidPit, Nexus 5 owners using the Android L preview build reported the problem on Google's issue tracker service, and a Google employee responded stating that the issue was being worked on.
+
+However, those who cannot wait for the update could give a new Android Lollipop custom firmware a try. According to IBTimes.co, the custom firmware, which was brought about by XDA contributor GROGG88, is based on the latest build and Lollipop software version, Android 5.0.2 LRX22G.
+
+Before installing the update to your Nexus 5, take note of the following:
+
+• As with all unofficial software, install the update at your own risk. Bugs are highly likely to occur.
+• Create a backup using any custom recovery, as the tutorial could possibly wipe out all data off the phone.
+• Enable USB Debugging mode on the phone to connect it with a computer and use Android SDK with it.
+• The device should have more than 80 percent of battery charge.
+• The phone should be rooted and have the latest version of recovery installed.
+• Note that the Grogg's Way ROM works with Nexus 5 hammerhead only.
+
+Here is the link to download AOSP Grogg's Way:
+
+http://forum.xda-developers.com/google-nexus-5/development/rom-t3023424
+
+To install the update to your Nexus 5:
+
+• Perform factory reset.
+• Download hammerhead
+• Download Flash for DT2W (optional)
+• Reboot the device
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunday, 16 November 2014
+
+
+
+
+
+
+
+Android 5.0 lollipop lock screen now in smarter way then before
+
+
+  By:
+Sanjai Kummar
+
+
+Sunday, November 16, 2014
+
+
+
+
+
+
+
+
+
+
+
+Google's latest mobile operating is now making its way to a variety of smartphones and tablets. Android 5.0 Lollipop completely revamps the look and feel of the operating system, and includes a number of new features and enhancements. One of the first things you will notice is an updated lock screen.
+
+Notifications are now displayed front and center on the screen. They can be swiped either to the left or to the right to be dismissed, or you can double tap them to jump right into an app. A simple swipe up from the bottom will unlock your stock Android device, while sliding your finger from left to right will open the phone app and a swipe from right to left will open the camera.
+
+It's convenient to have notifications displayed right on the lock screen, but not everyone is going to like this new feature. Luckily there are a few options to limit notifications or disable them from appearing on the lock screen.
+
+
+
+
+
+Head to Settings and click Sound & Notification. There are three options to choose from in the "When device is locked" option at the bottom of the page: show all notifications, don't' show notifications at all and hide sensitive notification information. The last option -- which will still show an incoming notification, but not any of the content -- will only be available if you have a screen lock pin, pattern or password set up.
+
+
+There is also an option to block specific app notifications entirely. In the Sound & Notification section of the settings menu, select App Notifications, tap the app you no longer want to get notifications from and choose to block it. Alternatively, you can choose to mark an app as "priority" to have it displayed at the top of the list and even come through when the device is set to priority mode. These options can also be accessed with a long-press on a specific notification on the lock screen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday, 5 November 2014
+
+
+
+
+
+
+
+Android 6.0 Name milkshake ?
+
+
+  By:
+Sanjai Kummar
+
+
+Wednesday, November 05, 2014
+
+
+
+
+
+
+
+
+
+
+Android 6.0 name
+
+Name of android 6.0 Can be
+
+Android 6.0 Milkshake, Android 6.0 Milkybar, 
+
+Android 6.0 Maltesers, Android 6.0 Musketeers, Android 6.0 milkyway
+
+
+
+
+
+
+
+
+Android 6.0 Milkshake M version of Android ?
+
+
+
+
+
+
+Hi , guys everyone is now eager to know the M version of android too,because some of interesting name are been found for this version. 
+
+
+
+There are many suggestions raising up daily for the M version of android . Ever since android versions names starts with the candy or desserts so people started preferring their own names too.
+
+
+
+According to the hype that has been raised for the m version of android is huge . so the most preferred M version of android could be milkshake.
+
+
+
+since we don't know the exact number of the version we only know the alphabet of the version is M . so it can be 
+
+
+
+
+
+
+
+
+Android 5.0 milkshake / Android 5.5 milkshake ( or ) 
+
+it could be Android 6.0 milkshake
+
+
+
+
+some of the other names that can be preffered for M version of Android 6.0 are milkybar,maltesers,musketeers,milkyway
+1. Android 6.0 Milkshake:  
+
+
+
+
+
+
+
+Android milkshake have the 70% of hope to be placed as the L version of Android.
+This is a relatively common name and suits much to be named, Android milkshake is the maximum search in goggle now and Android.
+Milkshake holds more awaiting by the people and it's ViewAndroid prediction too.
+Everybody likes Milkshake and it is much familiar word. 
+
+
+(A milkshake is a sweet, cold beverage which is usually made from milk, ice cream, or iced milk, and flavorings or sweeteners such as butterscotch, caramel sauce, chocolate sauce, or fruit syrup. )
+2. Android 6.0 Milkybar  
+
+
+
+Android Milkybar is a popular chocolate in India, and there are some possibilities for Milky bar because it is nestle product as same as kitkat,the senior vice president "Sundar pichai" at Google, who oversees Android is an Indian. And there are some chancess for Android milkybar too. 
+3. Android 6.0 Maltesers
+
+
+
+Android Maltesers are a confectionery product manufactured by Mars this brand is a chocolate from Germany there are  few chance for bagging this name as it is famous one. any way android 6.0 Maltesers how it looks to be ? if this name happens then it could be first name of android versions that will be an European name.
+
+
+
+
+
+
+
+4. Android 6.0 Musketeers
+
+
+
+       Musketeers is a candy bar made in the United States and Canada by Mars, Incorporated. It is a chocolate-covered fluffy whipped chocolate bar. The 3 Musketeers Bar was the third brand produced and manufactured by M&M/Mars, introduced in 1932. this name is well on the list of suggestions for android 6.0.
+5. Android 6.0 Milkyway
+
+
+
+
+             
+
+Milky Way bar is a chocolate bar distributed by the Mars confectionery company. The American version of the Milky Way bar is made of chocolate-malt nougat topped with caramel and covered with milk chocolate . this is another popular chocolate name that has been considered.
+
+
+
+
+
+
+
+
+Oooops! o_O I Just forgot about Android 5.0 and android 5.5 ,
+
+
+
+if the L version of Android release with the version name 4.5 then M version android would Acquire 5.0. 
+
+
+
+if the L version android to be released as 5.0 then M version of android could get android 5.5
+
+
+
+
+
+
+There are chances also for 
+
+
+
+Android 5.0 Milkshake or Android 5.5 milkshake, 
+
+Android 5.0 Milkybar or Android 5.5 milkybar, 
+
+Android 5.0 Maltesers or Android 5.5 Maltesers ,
+
+ Android 5.0 Musketeers or Android 5.5 Musketeers , 
+
+Android 5.0 milkyway or Android 5.5 milkyway 
+
+
+
+as well as Nothing is Predictable in Google.. 
+
+
+
+
+
+Comment Your Suggestions for
+
+ M VERSION OF ANDROID
+
+ Android 6.0 Names below :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook plans to have more android App developers
+
+
+  By:
+Sanjai Kummar
+
+
+Wednesday, November 05, 2014
+
+
+
+
+
+
+
+
+
+So it would be dramatic for companies to reverse that trend.
+
+
+Android apps tend to look and feel a bit second-rate compared to the same apps on iPhone - they often are just that. The iOS/Android split is weird because globally 80% of users are on the Android system, yet iOS and its roughly 10% of users are the top priority for developers.
+
+
+
+Yet that is what Facebook is seeing among some companies in Europe, according to Facebook's Europe, Middle East, and Africa platform director, Julien Codorniou. Developers are beginning to sense that because more people are Android users than Apple users, they're losing money by working on the smaller iOS platform first, he told Business Insider UK.
+
+
+
+Historically, Apple has been the preferred platform. Apple's higher-income users are often more lucrative targets for app advertisers and in-app payments and shopping. It's also simpler for developers to use, Apple has only one version of iOS running at any one time (the newest one) and the vast majority of Apple users keep their devices updated to the newest version. Android, by contrast, is "fragmented" into several different versions across hundreds of different phones - and all those versions are a headache for developers who must make a separate app tailored for each one.
+
+
+
+Facebook has a team of evangelists encouraging Android developers to use Facebook as a way to build and promote their apps: "As of today, I have four guys from my team in Paris talking to Android developers about the greatness of Parse, Facebook login, app links, app events. It's a very important bet for us."
+
+
+
+Wait, Android developers? Android-first, really?
+
+
+
+"People look at the numbers," he says. "They want downloads, installs. They know that the monetization is catching up on Android. Of course iOS is the better platform when it comes to monetization, but it's easier to update your app on Android. There are many people on an Android phone. ... The world you described [in which Apple is dominant] was true a year ago, but I see that things are changing."
+
+
+
+"The vision we have with Parse and with the platform in general is to accelerate the time to market. It should not take you six months to develop from iOS to Android."
+
+
+
+"There is a pattern coming from Eastern Europe. The Russian developers develop on Android first because of a big audience, and it maybe being easier to develop. They liked the fact that they could submit a new version of the app every day. [With Apple, you have to get each new version of the app approved before it hits the App Store. There is no version-approval system for Android.] This is a trend that I see and I think it is going to accelerate."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuesday, 4 November 2014
+
+
+
+
+
+
+
+Android 5.0 Lollipop makes its way finally its offical
+
+
+  By:
+Sanjai Kummar
+
+
+Tuesday, November 04, 2014
+
+
+
+
+
+
+
+
+
+
+                                       Android 5.0 Lollipop Offical
+
+
+
+Google, after introducing its Android L and the new Material Design interface back in June this year, and officially launching Android 5.0 Lollipop it last month alongside the Nexus 6 smartphone and Nexus 9 tablet, has on Monday finally commenced the roll-out of the operating system to users worldwide.
+
+
+
+Android 5.0 Lollipop features the new Material Design philosophy. "Design is a major focus for Lollipop-the latest version of Android-which begins to roll out today," added Nicholas Jitkoff, an Android Designer at Google, via the official company blog post on Monday.
+
+
+
+
+
+
+
+
+
+Jitkoff however, failed to give details on which regions will be the first to get the update. The Android 5.0 Lollipop update will roll out first to the Nexus 4, Nexus 5 and Nexus 7 (2012 and 2013), and Nexus 10, apart from Google Play Edition devices. Android One smartphones should be next in line to receive the update.
+
+
+
+Notably, Google's latest operating system starts to roll out few days after Andy Rubin, the co-founder of Android, chose to depart the tech firm. The Android section of Google currently falls under Sundar Pichai, who recently was put in charge of Google Search, Maps, Google+, commerce, advertising and infrastructure and was already heading the Chrome and Android division.
+
+
+
+
+
+Google describes Material Design as a "bold, colorful, and responsive UI design for consistent, intuitive experiences across all your devices. Responsive, natural motion, realistic lighting and shadows, and familiar visual elements make it easier to navigate your device. Vivid new colors, typography, and edge-to-edge imagery help to focus your attention."
+
+
+
+Besides Material Design, Android 5.0 Lollipop features an improved notification system; Kill Switch and improved security; a new messenger said to be a simplified version of Hangouts; device sharing with Guest user mode; ART Android runtime for improved application performance and responsiveness; support for 64-bit devices and SoCs; native 64-bit apps; improved hardware keyboard accessory support (including support for multilingual, emoji input, search key, and improved app and system key chords), support for 15 new languages (including Bengali, Kannada, Malayalam, Marathi, Tamil and Telugu); improved accessibility features (such as text contrast boost, colour inversion, and enhanced colour differentiation); improved audio, video, and camera capabilities, and improved Internet connectivity everywhere apart from more powerful Bluetooth low energy capabilities.
+
+
+
+Google has also rolled out the source code of Android 5.0 Lollipop to its Android Open Source Project (AOSP) page with build number LRX21M, and has also started rolling out the source code for Nexus devices from the Nexus 4 to the Nexus 9. The company has also released updated Android 5.0 Lollipop documentation for developers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuesday, 23 September 2014
+
+
+
+
+
+
+
+Run Android Apps in Chrome using any operating system 
+
+
+  By:
+Sanjai Kummar
+
+
+Tuesday, September 23, 2014
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Run Android Apps Inside Chrome
+
+How to Run Android Apps In PC and Laptops using Chrome
+
+
+
+Now Google made the primary batch of Android apps available for Chrome. It was solely a matter of time earlier than some intelligent customers gave that energy to everybody. Now that point has come. This is easy methods to set up (practically) any Android app on any working system.
+
+
+
+
+
+Apparent Disclaimer: That is nonetheless eight million sorts of damaged and completely nothing right here comes with a assure. Along with apps which are on no account formally supported, you are additionally going to be messing round with low-degree stuff in Chrome. That is most likely not one thing you need to try on a piece pc, nor do you have to anticipate this to be easy or bug-free. This course of is the other of each these issues. You will have Chrome 37+ for the next information
+
+
+
+
+
+ARC: The App Runtime for Chrome (or ARC) is the piece of software program that permits Android apps to run in Chrome. In the identical method that ART (and the older Dalvik) presently run Android apps in Android itself. By making a modified model of the Android runtime for Chrome, Google can enable builders so as to add help for Chrome with out rebuilding their apps from the bottom up.
+
+
+
+ARChon Customized Runtime: 
+
+
+
+ARC is formally solely designed for Chrome OS in the mean time. To get round this, developer vladikoff created the ARChon Customized Runtime, which not solely permits Home windows, OS X, and Linux to run Android apps, but additionally removes the restrict on what number of will be run.
+
+
+
+
+
+Google Play Providers: We have mentioned what Google Play Services are up to now. As we have defined earlier than, app builders can plug into these APIs to get pre-written performance. Consider them as plugins that Google offers to builders for his or her apps. Within the context of this text, we'll be speaking about apps which will or might not be supported in Chrome based mostly on whether or not or not they embody performance from Google Play Companies
+
+
+
+
+
+Unpacked Extension: Extensions usually come from the Chrome Internet Retailer or prepackaged in a .CRX file. For the needs of Android apps, we'll use unpacked extensions. These are folders that include all of the information for an extension (or, on this case, Android APK). They perform the identical as extensions, however should not wrapped up in a single file
+
+
+
+
+
+Step One: Set up the ARChon Runtime
+
+
+
+
+
+
+
+
+
+Chrome OS makes use of a specialised runtime that enables Android apps to run natively inside it. Which means it isn't an emulator or virtualization stack, however a correct runtime. In layman's phrases, Chrome OS is utilizing the identical kind of engine that Android makes use of to run software program instantly. So as a substitute of a Genymotion-like situation the place you may have an entire Android telephone operating in your laptop, right here you'll be able to launch Android apps from the Chrome launcher.
+
+
+
+To start, we'll must obtain the ARChon Customized Runtime. That is essential to run Android apps in Home windows, OS X, and Linux. When you can technically run Android apps in Chrome OS, you are presently restricted to considered one of 4 apps. The strategies in the remainder of this text will run different apps by spoofing the signed key on these apps, however if you wish to run any app you would like, obtain ARChon. Here is how:
+
+
+
+
+
+Obtain the ARChon runtime here.
+Unzip the archive.
+Open your extensions web page in Chrome by going to Menu > Extra Instruments > Extensions
+Allow Developer mode within the prime proper nook, if it isn't already enabled.
+Choose "Load unpacked extension."
+Select the folder containing the ARChon runtime you unzipped earlier.
+
+
+
+The ARChon runtime will now be operating as an extension in Chrome. You may even see a pair warnings like the next on the extensions web page. Nonetheless, these are regular and should not have an effect on your skill to run Android apps.
+
+
+
+
+
+
+
+
+
+Subsequent, you may want some Android apps to run. It is a little sophisticated, since Android APKs are usually not correctly packaged for Chrome. Nonetheless, with a little bit elbow grease (or some assist out of your pleasant neighborhood web), you may get a few of them to launch. Whether or not they perform correctly is a completely completely different matter.
+
+
+
+
+
+Step 2: Install Existing Android Apps
+
+
+
+
+
+
+
+The quickest, most useless-easy strategy to get some working Android apps is to seek out some on-line. Boards like this subreddit are already engaged on getting some useful. Nevertheless, this can be a far cry from the 1.three million apps on the Play Retailer. Whereas most of these will in all probability stay out of your attain as a result of incompatibility points, we'll additionally take a look at tips on how to (attempt to) create your personal.
+
+
+
+Disclaimer: Distribution of modified apps is, typically talking, some extent of copyright violation. In follow, there's little distinction between downloading a pre-modified app, and downloading the common model and modifying it your self. Because of this, it is unlikely any developer of a free app will likely be too involved should you obtain a pre-modified app to mess around with. Nonetheless, downloading a modified paid app is piracy. Please help builders and do not obtain modified variations of paid apps with out paying for them. And, whereas it ought to go with out saying, do not write a nasty evaluate or criticize the developer if an app is damaged in Chrome. You are by yourself right here.
+
+
+
+Some useful web customers have created a growing list of apps that work in Chrome. Yow will discover obtain hyperlinks in that doc, or discover extra in communities at the moment engaged on Chrome APKs. After getting a .zip file containing one in every of these modified APKs, here is the way to set up it:
+
+
+
+
+
+Unzip the file and place the folder (seemingly named one thing like "com.twitter.android") in a spot you'll be able to simply discover.
+Open the Extensions web page in Chrome.
+Click on "Load unpacked extensions."
+Choose the folder with the modified APK you downloaded.
+
+
+
+
+
+The app will now seem in your listing of Chrome extensions. When you're a specific fan of Chrome apps, you may also discover that a shortcut has been added to the Chrome app launcher. Relying on the way it was packaged, it could have a benign Android icon and the bundle identify as an alternative of a correct app identify
+
+
+
+Optional
+
+Step 3:Repackage Your Own Android Apps for Chrome
+
+
+
+
+
+
+
+
+
+There are just a few methods to make and tweak APKs in order that they will run on Chrome. These strategies are additionally beneath lively growth, so if you happen to're studying this later, there could also be even simpler methods which were developed to transform them. For the sake of completeness, we'll go over set up the chromeos-apk tool, in addition to tips on how to convert them manually, ought to you'll want to do any additional tweaking.
+
+
+
+
+
+
+
+Home windows:
+
+
+
+Obtain the node.js .msi file (not the .exe) from here.
+
+Set up node.js.
+
+In a command immediate, run the next command: npm set up chromeos-apk -g
+
+That is it. You now have the chromeos-apk instrument put in in your machine and might name it from any folder within the command line. You may skip forward to the part under on easy methods to use it.
+
+
+
+OS X/Linux: 
+
+
+
+The chromeos-apk tool was originally developed for Linux and OS X devices. Here's how to install it there:
+
+
+
+1.In a terminal, run the following command: sudo apt-get install npm
+
+(Ubuntu only): Run the following command: 
+
+sudo apt-get install lib32stdc++6
+
+2.Download node.js.
+
+Unzip the tar.gz file you downloaded from the above link.
+
+Per the README file, open a terminal to the unzipped folder containing node.js. And run the following commands in order:
+
+./configure
+
+make
+
+make install
+
+3.Run the command: sudo npm install chromeos-apk -g
+
+To make sure you're updated to the latest version (now or in the future)
+
+ run: sudo npm install -g chromeos-apk@latest
+
+
+
+
+
+
+
+
+
+How to Use the Chromeos-apk Tool
+
+
+
+
+
+
+
+You now have the chromeos-apk instrument put in in your machine. To make use of it, first you may want to amass an APK. For those who're attempting to transform a free app, you should use this tool to drag an APK straight from the Play Retailer. You may as well use this tool to get an APK from an app put in in your telephone. Many file managers and backup utilities like ES File Explorer and Titanium Backup may also pull APKs in your gadget.
+
+
+
+
+
+
+
+APK Downloader Pulls APK Files Directly From Google Play
+
+
+
+Being unable to put in an app in your system from the Play Retailer is a ache. Luckily, a…Read more
+
+
+
+Upon getting your APK, it is tremendous easy to create a Chrome-pleasant model. Open a command immediate or terminal within the folder the place you've got the APK saved, then do the next:
+
+
+
+Run the following command: 
+
+chromeos-apk [NAME OF APK]
+
+Example: chromeos-apk com.evernote.apk
+
+If prompted, enter the package name of the app. This can usually be found in the URL of the Play Store listing.
+
+
+
+ For example, in this URL, the portion after "?id=" is the package name. In this case, "com.evernote"
+
+
+
+
+
+
+
+You now have a modified APK, prepared for Chrome! You may set up it utilizing the identical directions in Step 2 earlier on this publish. Particularly, open your extensions web page, click on "Load unpacked extension," and select the folder you simply created.
+
+
+
+On the time of this writing, the chromeos-apk instrument nonetheless solely will get the app working. It will not take away the important thing (which lets you run multiple app directly), nor does it repair the app icon. We'll deal with that within the cleanup part.
+
+
+
+Different: Convert APKs Manually
+
+
+
+If you cannot (or do not need to) use the command line utility to switch APKs for Chrome utilization, you may repackage them your self. You will nonetheless must obtain chromeos-apk from Github here. You will additionally want an APK for the app in query, so use the strategies described within the part above to get them. Then, comply with these steps:
+
+
+
+
+
+There is a folder named "_template" inside the chromeos-apk tool you downloaded. Make a copy of this somewhere else (preferably near the APK you downloaded).
+Copy the APK into "_template > Vendor > chromium > crx". There should be a README file in the correct folder that says "APK goes here." in the correct folder.
+Rename the "_template" folder to the package name. The package name can usually be found in the Play Store listing URL after "?id=".
+Modify the "manifest.json" file in the main folder of the package. This is considerably easier to do with an app like this.
+
+
+Add the app's package name (like "com.pandora.android") to the "package name" field.
+Add the app's regular name (like "Pandora") to the "name" field.
+Delete the entry named "key", which will have a very long, seemingly random string for a value.
+Save the modified JSON file as "manifest.json" and replace the existing version with the new, edited one.
+
+
+
+      5.  Download the app icon from Play Store.
+
+
+
+On a Play Store listing page like this one, right-click the icon image.
+In the URL bar, change "w300-rw" to "w128". Hit enter.
+Right-click the new image and save it as "icon.png" in the main folder of the modified template folder
+
+
+
+
+
+Congratulations! You will have simply manually modified an APK to run in Chrome. Your complete course of is not terribly sophisticated, it is simply time consuming in case you're altering every app manually.
+
+
+
+
+
+You will additionally word that none of this course of includes altering the app itself. The APK sits inside an elaborate wrapper. Both it really works or it does not. Time will inform if Android apps can or can be focused for desktop use, however for now the floodgates are open to tinkerers in case you actually need to strive them out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tuesday, 16 September 2014
+
+
+
+
+
+
+
+Google Launches Android One Smartphones With Micromax, Karbonn, Spice
+
+
+  By:
+Sanjai Kummar
+
+
+Tuesday, September 16, 2014
+
+
+
+
+
+
+
+
+
+Google has launched the first family of Android One phones in India, saying the move is part of a "larger initiative to bring high-quality smartphones to as many people as possible."
+
+The search giant announced the first Android One smartphones - the Karbonn Sparkle V, Micromax Canvas A1, and Spice Dream Uno - will be available from their respective online retail partners in India from 3:30pm on Monday, with physical retail store availability in early October.
+All 3 smartphones bear similar features hardware specifications, as well as "features particularly important to Indians" - dual SIM card slots, a FM radio tuner, and a microSD card slot for additional storage. Google apps such as Gmail, Google Maps, YouTube, Google Search, and Google Translate will come pre-loaded on the phones.
+
+Apart from those listed above, common specifications of the Micromax Canvas A1, Karbonn Sparkle V, and Spice Dream Uno include: a 4.5-inch (480x854 pixels) IPS FWVGA display; 1.3GHz quad-core MediaTek processor; 1GB of RAM, 4GB of inbuilt storage; expandable storage support via microSD card (up to 32GB); a 5-megapixel rear camera with LED flash; a 2-megapixel front camera; Wi-Fi, Bluetooth, GPS, GPRS/ EDGE, 3G, and a 1700mAh battery.
+
+Google also announced that Airtel is offering a promotion to reduce data costs for those who buy Android One phones. With an Airtel SIM card, Android One users will get free over-the-air (OTA) updates, and 200MB per month worth of app downloads from Google Play for the first six months - all without counting toward their mobile data plan. Additionally, Google is touting the a data compression feature on Android One's Chrome browser.
+
+The search giant also announced that in the coming weeks the YouTube app will get offline video playback in India, allowing users to store videos via Wi-Fi on their Android device, and watch them later without data connectivity.
+
+Sundar Pichai, Google Senior Vice President of Android, Chrome & Apps, announced an expanded set of hardware partners for the Android One initiative, including Acer, Alcatel Onetouch, Asus, HTC, Intex, Lava, Lenovo, Panasonic, and Xolo, as well as chipmaker Qualcomm. The company also announced that Android One phones will launch in Indonesia, the Philippines, and additional countries in South Asia by the end of the year.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wednesday, 20 August 2014
+
+
+
+
+
+
+
+Android Projects 2014 titles
+
+
+  By:
+Sanjai Kummar
+
+
+Wednesday, August 20, 2014
+
+
+
+
+
+
+
+
+
+Android Projects 2014
+
+Android ieee projects
+
+Android project ideas 
+
+Android project titles 
+
+Android ieee projects 2014
+
+Android project ieee papers 
+
+Android ieee papers Download
+
+Android project titles 2014-2015
+
+Android best projects titles 
+
+Android project title top 100
+
+Android project best titles
+
+Android project ideas or topics
+
+Top android project titles
+
+Best Android projects 
+
+Android ieee papers Download
+
+Android OS IEEE Papers
+
+Android Projects For Students
+
+Android Final Year Projects
+
+Android project topics list
+
+
+
+Android project titles with abstract
+
+Android Projects For Beginners
+
+Android project topics list
+
+Android Project Papers Download
+
+
+
+
+
+ For All These Searches You Will Get 
+
+Result here......
+
+
+
+Scroll Down To Get 
+
+Android ieee Papers Free Download pdf 
+
+
+
+
+
+Android Projects 2014 Titles ,Ideas , Topics  , IEEE Papers
+
+well are you looking for Android Project titles 2014 be cool out there and here i have listed Some of the useful top 100 Android project Ideas Check it out below
+
+
+
+1.Android City Tour Guide System based on Web Service
+
+
+
+2.Life Tracking Activity Application for Smartphones Using Android 
+
+
+
+3.Car Control Realization with Bluetooth by Android Equipment
+
+
+
+4.Railway Gate Crossing level Application using Remote operation in Android
+
+
+
+5.Privacy Preserving Multi-keyword  Search over Android
+
+
+
+6.Android Based Remote Programmable Sequential
+
+
+
+7.Privacy-Aware Communication for Smart phones Using Vibration.
+
+
+
+8.Controlling of DC Motor using Android Mobile
+
+
+
+9.Surveillance System using Android Phone 
+
+
+
+10.Sending SMS with Speech Recognition Interface
+
+
+
+11.Android Based Application for Converting Text To Speech For Searchable Contents in Smart Phones
+
+
+
+12.Children Tracking System Using Bluetooth MANET by the Composition of Android Mobile Terminals
+
+
+
+13.Android Based Application For Safe Driving Using Mobile Phones
+
+
+
+14.Improved Authentication System for Android Smartphone Users
+
+
+
+15.Android based Exercise Application
+
+
+
+16.Identifying SMS spam messages on mobile phones using Android
+
+
+
+17.Android Based Environment Sensor For Smartphones
+
+
+
+18.Android Based Body Gesture Application using Motion Sensors
+
+
+
+19. Multi-person Human-Robot Interaction using Android
+
+
+
+20.Automatic color Changing gestures in smart phones
+
+
+
+21.Android based Automatic Gesture Based lock Applications for smart phones
+
+
+
+22.Smart Remote Control for Android based TV
+
+
+
+23.Android Based Mobile Sensor Data Collector for Android Smartphone
+
+
+
+24.Android Face Recognition Implementation for Client Server Mobile Application Using PCA
+
+
+
+25.Forwarding SMS with Speech Recognition Interface
+
+
+
+26.Decentralized Smartphone based Traffic Information System
+
+
+
+27.Android Railway Ticketing with GPS as Ticket Checker
+
+
+
+28.Automatic Traffic Signal Control with Android Applications
+
+
+
+29.Service-Centric Framework for a Digital Government Application
+
+
+
+30.Android Based Automatic Number Plate Recognition 
+
+
+
+31.Android Based Universal Push Service for Smartphones
+
+
+
+32.Emergency Alarm and Healthcare Management System using Android Platform
+
+
+
+33.Doctor-Patient Interaction System Based on Android
+
+
+
+34.Automatic Brightness Control of Handheld Device Display with Low Illumination
+
+
+
+35.Android Personalized Image Search from the Photo Sharing Websites
+
+
+
+36.Android Malware Detection through Manifest and API Calls Tracking
+
+
+
+37.Android Based The Three-Tier Security Scheme in Wireless Sensor Networks 
+
+
+
+38.Android Application for Payments for Outsourced Computations
+
+
+
+39.Android-based indoor WiFi positioning system for smartphone.
+
+
+
+40.Remote Password Operated Security Control by Android Applications
+
+
+
+41.Android Query Formulation Language for smartphones
+
+
+
+42.Real-time Video Processing using Native Programming on Android Platform
+
+
+
+43.Remote Controlled Home Automation Using Android Applications
+
+
+
+44.Android Based Web Service to Deliver Filtered RSS Items to a Mobile 
+
+
+
+45.Android Transport application - Displaying Bus ,Train and Flight Information or a city 
+
+
+
+46.Tram location and route navigation system using smartphone
+
+
+
+47.Battery Optimizer for Android Mobile Devices
+
+
+
+48.Android Based Location Tracking System
+
+
+
+49.Android Based OMR(Optical Machine Reader) for Smart Phones
+
+
+
+50.Telematics Services based on Android System Design
+
+
+
+51.Safe Driving Using Mobile Phones 
+
+
+
+52.Designing Mobile Language Learning Applications Using Multimedia: Implications from a Small-scale Prospective Learner Study
+
+
+
+53.EduPad — A tablet based educational system for improving adult literacy in rural India
+
+
+
+54.Research and design of chatting room system based on Android Bluetooth 
+
+
+
+55 Design and Implementation of Improved Authentication System for Android Smartphone Users 
+
+
+
+56.Learn to Personalized Image Search from the Photo Sharing Websites 
+
+
+
+57.SPOC A Secure and Privacy-preserving Opportunistic Computing Framework for Mobile-Healthcare Emergencys 
+
+
+
+58.The Three-Tier Security Scheme in Wireless Sensor Networks with Mobile Sinks 9) Scalable and Secure Sharing of Personal Health Records in Cloud Computing using Attribute-based Encryption 
+
+
+
+59.Payments for Outsourced Computations 
+
+
+
+60.Outsourced Similarity Search on Metric Data Assets 
+
+
+
+61.A Query Formulation Language for the Data Web
+
+
+
+62.PMSE A Personalized Mobile Search Engine 
+
+
+
+63.Query Planning for Continuous Aggregation Queries over a Network of Data Aggregators
+
+
+
+64.Ranking Model Adaptation for Domain-Specific Search 
+
+
+
+65.Defenses against large scale online password guessing Attacks by using persuasive click points
+
+
+
+66.Efficient audit service outsourcing for data integrity in clouds 
+
+
+
+67.Ensuring Distributed Accountability for Data Sharing in the Cloud
+
+
+
+68. Network Assisted Mobile Computing Optimal Uplink Query Processing 
+
+
+
+69. Tram location and route navigation system using smartphone
+
+
+
+70. Color constancy with spatio-spectral statistics 
+
+
+
+71. Fast rotation invariant 3d feature computation utilizing efficient local neighborhood operators 
+
+
+
+72. Learning sparse representations for human action recognition 
+
+
+
+73. Scribble tracker: a matting-based approach for robust tracking 
+
+
+
+74. Unsupervised image matching based on manifold alignment 
+
+
+
+75. Difference-based image noise modeling using skellam distribution 
+
+
+
+76. Intentsearch: capturing user intention for one-click internet image search 
+
+
+
+77. Toward holistic scene understanding: feedback enabled cascaded classification models 
+
+
+
+78. Trainable convolution filters and their application to face recognition.
+
+
+
+79.Android based Exercise Application
+
+
+
+80.Automatic Brightness Control of Handheld Device Display with Low Illumination
+
+
+
+81.Collection of Earthquake Disaster Area Information Using Smart Phone
+
+
+
+82.Smart Remote Control for Android based TV
+
+
+
+83.Daily Life Activity Tracking Application for Smarthomes Using Android Smartphone
+
+
+
+84.Doctor-Patient Ineraction System Based on Android
+
+
+
+85.Environment Sensing Using Smartphone
+
+
+
+86.Face Recognition Implementation for Client Server Mobile Application Using PCA
+
+
+
+87.QR Code based Information Access System for Smart Phones
+
+
+
+88.Implementation of a Mobile Device to Determine Danger in a Great City Based on Ubiquity.
+
+
+
+89.Cooperative Defense Against Pollution Attacks in Network Coding Using SpaceMac
+
+
+
+90.Soft Real-Time Scheduling in Google Earth.
+
+
+
+91.Web Service to Deliver Filtered RSS Items to a Mobile Application.
+
+
+
+92.Cooperative Defense Against Pollution Attacks in Network Coding Using SpaceMac
+
+
+
+93. Biometric Mechanism for Enhanced Security of Online Transaction on Android system: A design approach.
+
+
+
+94.Ubiquitous Pedestrian Tracking using Mobile Phones
+
+
+
+95.Machine Learning Approach to Android Malware Detection.
+
+
+
+96.Display of a Passing Person and His/Her Message Simultaneously on the Same Screen
+
+
+
+97.New Generation Children Tracking System Using Bluetooth MANET by the Composition of Android Mobile Terminals
+
+
+
+98.GPS Enabled Smartphone with Android Operating System
+
+
+
+99.Resilience Wireless Enhancement for Neighbour hood Watching System
+
+
+
+100.Universal Push Service for Mobile Devices
+
+
+
+
+ANDROID PROJECT IEEE PAPERS DOWNLOAD HERE
+
+
+
+(Note: Download will open in new window 
+
+where you can view and download )
+
+
+
+See  Sample Download image in new window
+
+
+
+
+
+
+
+
+
+
+Download Android IEEE Papers
+Download     Study of Android Application Security                                
+
+
+
+Download     Implementations of Location Based Service                       
+
+
+
+Download     Android Based Mobile Tourist Guide                                 
+
+
+
+Download     Smart Travel Guide Using Android         Download      Dissecting Android Malware Characterization and Evolution        Download      Reputation Based Security Model for Android Applications Download      Smartphone Malware Evolution Revisited: Android Next TargetDownload      Semantically Rich Application-Centric Security in AndroidDownload      Automating GUI Testing for Android ApplicationsDownload      Practical Policy Enforcement for Android ApplicationsDownload      The Design and Implementation of FFTW3Download      Remote computer access through Android mobilesDownload      Behavior-Based Malware Detection System for AndroidDownload      Taming Information-Stealing Smartphone Applications (on Android)Download      Virtual Smartphone over IPDownload      Android Evolution to Mitigate Privilege Escalation AttacksDownload      Activity Recognition using Cell Phone AccelerometersDownload      Language Based Security on AndroidDownload      Analysing Inter Application in AndroidDownload      Remote Control Mobile Devices in AndroidDownload      Zero day Protection for Smart Phone using CloudDownload      Venturi white paper on AndroidDownload      Reliable Real Time Application project on Android operating System (OS)
+
+
+
+
+
+
+
+
+if You wish to Publish and share your Android Ieee papers in helping others just mail your papers to 
+
+Editor :   sanjai@viewandroid.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Older Posts
+
+Home
+
+
+
+
+Subscribe to:
+Posts (Atom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Android Tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tech Trends
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About
+Tags
+Popular
+
+
+
+
+About Me
+
+
+
+
+
+Sanjai Kummar
+
+
+
+
+Open source, web & Android App developer ,Engineer love to follow cricket & movies Fun loving Guy
+
+View my complete profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels
+
+
+android 5.0
+
+
+Android 6.0
+
+
+Android ieee projects
+
+
+Android interview questions
+
+
+Android project ideas
+
+
+Android project titles
+
+
+Android Project Topics.
+
+
+Android projects
+
+
+AndroidApps
+
+
+AndroidNews
+
+
+AndroidTutorials
+
+
+Apple
+
+
+BlackberryApps
+
+
+Blogger
+
+
+Blogger Templates
+
+
+BloggingTips
+
+
+Facebook
+
+
+Google
+
+
+Htc
+
+
+ios
+
+
+iostutorials
+
+
+iphoneApps
+
+
+Microsoft
+
+
+MobileTricks
+
+
+NetworkTricks
+
+
+NewLaunches
+
+
+Nokia
+
+
+Phonegap
+
+
+Samsung
+
+
+SecurityTips
+
+
+SEO
+
+
+Sony
+
+
+tabsandphones
+
+
+TechTrends
+
+
+Templates
+
+
+VirusTips
+
+
+WindowsApps
+
+
+WindowsNews
+
+
+Yahoo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Posts
+
+
+
+
+
+
+
+
+
+ Shortcut virus removal in USB Pendrive, PC , Hard disk, memory cards using command prompt
+         How to Remove Short Cut Virus      When We use Pen drives often  we plug in our pen drive, memory cards or even mobile phone throug...
+
+
+
+
+
+
+
+
+
+
+ How to update Android kitkat 4.4 in Sony Xperia Z Series
+       Sony is been working to build new Sony experiences on Google’s KitKat release to create some neat / sweet features - in addition to a...
+
+
+
+
+
+
+
+
+
+
+Android Project Ideas Top 50 Titles
+         Are looking for Android Projects be cool out there and  here i have listed Some of the useful top 50 Android project Ideas Check it...
+
+
+
+
+
+
+
+
+
+
+Phonegap interview questions for freshers
+           Well here , iam going to tell you some of the important interview questions of phonegap ( Cross Platform Language ) Exclusively f...
+
+
+
+
+
+
+
+
+
+
+How to add Author profile to your Blogger, Wordpress and Websites.
+         Creating Author Profile to your website or blog or in word press is very easy ,    i will just say you a simple steps to create you...
+
+
+
+
+
+
+
+
+
+
+How to Get More Twitter followers
+          Twitter One of the Biggest social Media which is followed by Millions of people all around the globe .  Here iam going to tell you...
+
+
+
+
+
+
+
+
+
+
+Android Project Titles 2014 Top 100 
+     Are looking for Android Project titles 2014 be cool out there and  here i have listed Some of the useful top 100 Android project Ideas ...
+
+
+
+
+
+
+
+
+
+
+How to Make your Computer speak what ever you want
+         Can you make your computer speak ?       Definitely yes !!! you can make your computer to speak whatever you want     This is possi...
+
+
+
+
+
+
+
+
+
+
+Google Political Election Site for India and other 20 Countries
+         Google has set up a dedicated portal to help Indian voters know about their Lok Sabha election candidates, the global search engine...
+
+
+
+
+
+
+
+
+
+
+How to install android 4.4.2 in KitKat on Samsung Galaxy Note 2
+   well now, the new version of Android KitKat is now available for the Samsung Galaxy Note 2 (GT-N7100). If you are unable to get the new f...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Total Pageviews
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search This Site
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Popular Posts
+
+
+
+ Shortcut virus removal in USB Pendrive, PC , Hard disk, memory cards using command prompt
+
+
+ How to update Android kitkat 4.4 in Sony Xperia Z Series
+
+
+Android Project Ideas Top 50 Titles
+
+
+Phonegap interview questions for freshers
+
+
+How to add Author profile to your Blogger, Wordpress and Websites.
+
+
+How to Get More Twitter followers
+
+
+Android Project Titles 2014 Top 100 
+
+
+How to Make your Computer speak what ever you want
+
+
+Google Political Election Site for India and other 20 Countries
+
+
+How to install android 4.4.2 in KitKat on Samsung Galaxy Note 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google+ Followers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google plus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us on twitter
+
+Tweets by @viewandroid_com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Form
+
+
+
+
+Name
+
+
+
+Email
+*
+
+
+
+Message
+*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow us on Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scan my server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Google+ Badge
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Labels
+
+
+
+Android interview questions
+
+
+AndroidApps
+
+
+AndroidNews
+
+
+AndroidTutorials
+
+
+Apple
+
+
+Facebook
+
+
+Google
+
+
+Htc
+
+
+ios
+
+
+iostutorials
+
+
+Microsoft
+
+
+MobileTricks
+
+
+Nokia
+
+
+Phonegap
+
+
+Samsung
+
+
+SEO
+
+
+Sony
+
+
+tabsandphones
+
+
+TechTrends
+
+
+Templates
+
+
+VirusTips
+
+
+WindowsNews
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Viewandroid.com© 2014 @ FlatMag. All rights reserved.
+
+Google+
+Facebook
+Twitter
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
